@@ -1,0 +1,4 @@
+1.streamlit
+2.langchain
+3.pdfplumber
+4.ollama
